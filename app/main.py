@@ -53,7 +53,7 @@ async def lifespan(_: FastAPI):
 app = FastAPI(
     title="DCloud API",
     version="1.0.0",
-    description="Proof-of-concept децентрализованного облачного хранилища.",
+    description="децентрализованного облачного хранилища.",
     lifespan=lifespan,
 )
 

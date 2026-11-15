@@ -1,1 +1,1 @@
-"""DCloud proof-of-concept."""
+"""DCloud."""
